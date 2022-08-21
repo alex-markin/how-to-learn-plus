@@ -1,0 +1,12 @@
+.kaufman__triangle {
+  box-sizing: border-box;
+  transform: rotate(-15deg);
+  position: absolute;
+  right: -210px;
+  top: -50px;
+  border-left: 438px solid transparent;
+  border-right: 438px solid transparent;
+  border-bottom: 877px solid var(--links_figures-color);
+  z-index: 0;
+  animation: rotation 20s linear infinite;
+}

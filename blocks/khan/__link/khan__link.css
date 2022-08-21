@@ -1,0 +1,12 @@
+.khan__link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 42px;
+  color: var(--font-color1);
+}
+
+.khan__link:hover {
+  transition: 1s;
+  opacity: 0.5;
+}
