@@ -1,12 +1,13 @@
 .kaufman__triangle {
-  box-sizing: border-box;
-  transform: rotate(-15deg);
   position: absolute;
+  transform: rotate(-10deg);
   right: -210px;
-  top: -50px;
-  border-left: 438px solid transparent;
-  border-right: 438px solid transparent;
+  top: 0px;
   border-bottom: 877px solid var(--links_figures-color);
+  border-left: 438.5px solid transparent;
+  border-right: 438.5px solid transparent;
+  height: 0;
+  width: 0;
   z-index: 0;
-  animation: rotation 20s linear infinite;
 }
+/* базовая картинка из пакета не растягивается, сделал треугольник самостоятельно */

@@ -4,9 +4,11 @@
   font-size: 30px;
   line-height: 42px;
   color: var(--font-color1);
+  transition: 1s;
+  text-decoration: none;
+
 }
 
 .khan__link:hover {
-  transition: 1s;
   opacity: 0.5;
 }
