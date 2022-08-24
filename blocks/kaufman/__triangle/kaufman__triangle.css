@@ -1,13 +1,10 @@
 .kaufman__triangle {
   position: absolute;
-  transform: rotate(-10deg);
   right: -210px;
   top: 0px;
-  border-bottom: 877px solid var(--links_figures-color);
-  border-left: 438.5px solid transparent;
-  border-right: 438.5px solid transparent;
-  height: 0;
-  width: 0;
+  background-image: url(../../../images/kaufman-triangle.svg);
+  background-size: contain;
+  height: 877px;
+  width: 877px;
   z-index: 0;
 }
-/* базовая картинка из пакета не растягивается, сделал треугольник самостоятельно */
