@@ -6,6 +6,8 @@
   color: var(--font-color1);
   transition: 1s;
   text-decoration: none;
+  margin: 0;
+  padding: 0;
 
 }
 

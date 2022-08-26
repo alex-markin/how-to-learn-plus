@@ -7,6 +7,7 @@
   font-weight: 600;
   font-size: 120px;
   line-height: 115%;
-  margin: auto;
+  margin: 0 auto;
+  padding: 0;
   text-align: center;
 }

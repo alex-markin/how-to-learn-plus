@@ -4,4 +4,6 @@
   line-height: 120%;
   color: var(--font-color1);
   width: 175px;
+  margin: 0;
+  padding: 0;
 }
