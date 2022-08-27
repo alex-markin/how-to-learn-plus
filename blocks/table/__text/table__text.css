@@ -4,7 +4,7 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 120%;
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
 }
 
 .table__text:last-of-type {
